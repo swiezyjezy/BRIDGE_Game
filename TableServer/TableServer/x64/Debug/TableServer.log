@@ -1,0 +1,41 @@
+﻿  Card.cpp
+  Deck.cpp
+C:\Users\jangr\Desktop\TableServer\TableServer\Deck.cpp(20,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hand.cpp
+  Player.cpp
+  Source.cpp
+  TableServer.cpp
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(26,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(79,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(135,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(180,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(181,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(283,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(285,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(316,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(318,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(348,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(350,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(380,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(382,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(470,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(502,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(534,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(566,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(568,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(653,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(685,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(717,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(748,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(836,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(868,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(899,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(930,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(1019,10): warning C4101: 'Suit': unreferenced local variable
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(1239,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(1249,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(1266,43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\TableServer\TableServer\TableServer.cpp(1276,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\jangr\Desktop\TableServer\TableServer\Hand.cpp(176,1): warning C4715: 'Hand::findSuitWithMostCards': not all control paths return a value
+  TableServer.vcxproj -> C:\Users\jangr\Desktop\TableServer\x64\Debug\TableServer.exe
