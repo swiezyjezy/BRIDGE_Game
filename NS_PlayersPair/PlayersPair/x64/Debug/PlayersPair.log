@@ -1,0 +1,22 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (PlayersPair.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Card.cpp
+  Deck.cpp
+C:\Users\jangr\Desktop\NS_PlayersPair\PlayersPair\Deck.cpp(20,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hand.cpp
+  Player.cpp
+  NSPlayersPair.cpp
+C:\Users\jangr\Desktop\NS_PlayersPair\PlayersPair\NSPlayersPair.cpp(77,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jangr\Desktop\NS_PlayersPair\PlayersPair\NSPlayersPair.cpp(78,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jangr\Desktop\NS_PlayersPair\PlayersPair\NSPlayersPair.cpp(79,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jangr\Desktop\NS_PlayersPair\PlayersPair\NSPlayersPair.cpp(80,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\jangr\Desktop\NS_PlayersPair\PlayersPair\NSPlayersPair.cpp(482,6): warning C4101: 'rank': unreferenced local variable
+C:\Users\jangr\Desktop\NS_PlayersPair\PlayersPair\NSPlayersPair.cpp(582,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\NS_PlayersPair\PlayersPair\NSPlayersPair.cpp(590,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\NS_PlayersPair\PlayersPair\NSPlayersPair.cpp(621,42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\NS_PlayersPair\PlayersPair\NSPlayersPair.cpp(662,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\NS_PlayersPair\PlayersPair\NSPlayersPair.cpp(668,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\jangr\Desktop\NS_PlayersPair\PlayersPair\NSPlayersPair.cpp(574,9): warning C4101: 'valread': unreferenced local variable
+  Source.cpp
+  Generating Code...
+C:\Users\jangr\Desktop\NS_PlayersPair\PlayersPair\Hand.cpp(176,1): warning C4715: 'Hand::findSuitWithMostCards': not all control paths return a value
+  PlayersPair.vcxproj -> C:\Users\jangr\Desktop\NS_PlayersPair\x64\Debug\NSPlayersPair.exe
